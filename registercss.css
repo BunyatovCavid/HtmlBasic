@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+#title{
+    border-bottom: 3px solid blueviolet;
+    width: max-content;
+     color: black;
+}
+
+
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.log{
+    padding: 50px;
+    background-color: rgb(222, 247, 215);
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+.in{
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.im{
+    width: 25px;
+    height: 25px;
+}
+
+#lgbtn{
+    margin: 20px;
+    font-size:28px;
+    border: none;
+    margin-left: 50px;
+   justify-content: center;
+    border-radius: 5%;
+    background-color: rgb(56, 73, 223)
+}
+
+form{
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#go{
+    justify-content: center;
+    margin-left: 50px;
+}
+
+#re{
+ margin-top: 10px;
+}
